@@ -16,10 +16,10 @@
 
 
 <div align="center">
-    <img src="./assets/home_one.jpg" alt="screenshot" title="screenshot" width="250" height="436" >
-    <img src="./assets/map_one.jpg" alt="screenshot" title="screenshot" width="250" height="436" >
-    <img src="./assets/home_two.jpg" alt="screenshot" title="screenshot" width="250" height="436" >
-    <img src="./assets/map_two.jpg" alt="screenshot" title="screenshot" width="250" height="436" >
+    <img src="./assets/home_one.PNG" alt="screenshot" title="screenshot" width="250" height="436" >
+    <img src="./assets/map_one.PNG" alt="screenshot" title="screenshot" width="250" height="436" >
+    <img src="./assets/home_two.PNG" alt="screenshot" title="screenshot" width="250" height="436" >
+    <img src="./assets/map_two.PNG" alt="screenshot" title="screenshot" width="250" height="436" >
 </div>
 
 
